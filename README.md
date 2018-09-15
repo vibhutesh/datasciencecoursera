@@ -13,5 +13,5 @@ Steps to re-invent this project
 
 Output obtained
 ----------------
-* Tidy dataset file `DatasetHumanActivityRecognitionUsingSmartphones.txt` (tab-delimited text)
+* Tidy dataset file `tdy.txt` (tab-delimited text)
 * Codebook file `codebook.md` (Markdown)
