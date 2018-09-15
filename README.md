@@ -15,3 +15,6 @@ Output obtained
 ----------------
 * Tidy dataset file `tdy.txt` (tab-delimited text)
 * Codebook file `codebook.md` (Markdown)
+
+
+Code is inspired by the sincere work of Benjamin Chan.
